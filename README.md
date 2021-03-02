@@ -35,4 +35,6 @@ lalu ketik di termux python3 createFile.py
 
 lalu ketik lagi python3 Spamwa.py
 
+![Spamwa.py](https://github.com/Xnuvers007/spamwa2/blob/main/Screenshot_2.png "Spamwa.py")
+
 lalu setelah itu cepat cepatlah ke tempat pemasukan teks (jangan diisi biar keisi otomatis sama termux)
