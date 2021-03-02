@@ -1,3 +1,5 @@
+https://img.shields.io/github/license/Xnuvers007/spamwa2?color=blue
+
 # spamwa2
 Program / tools untuk spam pesan Whatsapp
 - coded by Xnuvers007
