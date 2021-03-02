@@ -1,5 +1,6 @@
 # spamwa2
 Program / tools untuk spam pesan Whatsapp
+- coded by Xnuvers007
 
 # Commands
 
