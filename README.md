@@ -1,7 +1,5 @@
 ![License](https://img.shields.io/github/license/Xnuvers007/spamwa2?color=blue)
-
 ![Release Date](https://img.shields.io/github/release-date/xnuvers007/spamwa2)
-
 ![My Blogspot](https://img.shields.io/website?down_color=black&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmykingbee.blogspot.com)
 
 # spamwa2
