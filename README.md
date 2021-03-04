@@ -12,7 +12,7 @@ termux/linux
 
 pkg install python3
 
-pip install pyautogui
+pip install -r requirements.txt
 
 git clone https://github.com/Xnuvers007/spamwa2
 
