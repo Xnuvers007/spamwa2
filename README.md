@@ -7,6 +7,8 @@ Program / tools untuk spam pesan Whatsapp
 - coded by Xnuvers007
 - Copyright @ Xnuvers007 2021
 
+# Commands
+
 # Windows 7,8.1, 8, 10, 11
 
 ada 2 cara penggunaan
@@ -14,8 +16,6 @@ ada 2 cara penggunaan
 1. ke folder Aplikasi_Exe, lalu baca README.md (jalankan CreateFile.exe lalu Spammer.exe)
 
 2. double klik di start.bat
-
-# Commands
 
 # Linux
 
@@ -61,3 +61,5 @@ lalu setelah itu cepat cepatlah ke tempat pemasukan teks (jangan diisi biar keis
 
 
 # catatan, ketika anda menggunakan debian.sh atau start.sh , cursor harap ditempat pengisian pesan/comentar (FB, IG, YT, WA)
+
+[![Watch The Video](https://i.pinimg.com/564x/31/8b/a4/318ba40cd6003c03714c108603756529.jpg "gambar")](https://id.pinterest.com/pin/14918242506582203/)
