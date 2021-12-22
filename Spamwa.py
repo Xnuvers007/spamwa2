@@ -2,8 +2,15 @@ import pyautogui
 import time
 import mouseinfo
 import os
-os.environ['DISPLAY'] = ':1.0' #Linux / debian
-os.environ['DISPLAY'] = ':0' #windows
+from sys import platform
+
+if platform=="linux" or platform=="linux2":
+   os.environ['DISPLAY'] = ':1.0' #Linux / debian
+elif platform=="win32":
+   s.environ['DISPLAY'] = ':0' #windows
+else:
+   print("Cannot detect this device")
+
 os.environ['XAUTHORITY']='/run/user/1000/gdm/Xauthority'
 input("Enter To Start")
 time.sleep(1)
