@@ -5,6 +5,7 @@
 # spamwa2
 Program / tools untuk spam pesan Whatsapp
 - coded by Xnuvers007
+- Copyright @ Xnuvers007 2021
 
 # Commands
 
@@ -20,7 +21,15 @@ cd spamwa2
 
 ls
 
+chmod +x debian.sh
+
+xhost +
+
 python3 createFile.py
+
+atau bisa gunakan / run
+
+./debian.sh
 
 ls
 
@@ -28,13 +37,9 @@ python3 Spamwa.py
 
 # Cara menjalankannya Android/HP
 
-gunakan mode split
-
-atas termux bawah whatsapp
-
 pertama cari target, stay room chat di target
 
-lalu ketik di termux python3 createFile.py
+lalu ketik python3 createFile.py
 
 ![createFile.py](https://github.com/Xnuvers007/spamwa2/blob/main/gambar/Screenshot_1.png "createFile.py")
 
@@ -43,3 +48,6 @@ lalu ketik lagi python3 Spamwa.py
 ![Spamwa.py](https://github.com/Xnuvers007/spamwa2/blob/main/gambar/Screenshot_2.png "Spamwa.py")
 
 lalu setelah itu cepat cepatlah ke tempat pemasukan teks (jangan diisi biar keisi otomatis sama termux)
+
+
+# catatan, ketika anda menggunakan debian.sh atau start.sh , cursor harap ditempat pengisian pesan/comentar (FB, IG, YT, WA)
