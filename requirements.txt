@@ -1,0 +1,1 @@
+pyautogui==0.9.52MouseInfo==0.1.3python3-xlib
