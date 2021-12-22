@@ -7,7 +7,17 @@ Program / tools untuk spam pesan Whatsapp
 - coded by Xnuvers007
 - Copyright @ Xnuvers007 2021
 
+# Windows 7,8.1, 8, 10, 11
+
+ada 2 cara penggunaan
+
+1. ke folder Aplikasi_Exe, lalu baca README.md (jalankan CreateFile.exe lalu Spammer.exe)
+
+2. double klik di start.bat
+
 # Commands
+
+# Linux
 
 termux/linux
 
