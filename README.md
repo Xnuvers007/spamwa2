@@ -36,10 +36,10 @@ pertama cari target, stay room chat di target
 
 lalu ketik di termux python3 createFile.py
 
-![createFile.py](https://github.com/Xnuvers007/spamwa2/blob/main/Screenshot_1.png "createFile.py")
+![createFile.py](https://github.com/Xnuvers007/spamwa2/blob/main/gambar/Screenshot_1.png "createFile.py")
 
 lalu ketik lagi python3 Spamwa.py
 
-![Spamwa.py](https://github.com/Xnuvers007/spamwa2/blob/main/Screenshot_2.png "Spamwa.py")
+![Spamwa.py](https://github.com/Xnuvers007/spamwa2/blob/main/gambar/Screenshot_2.png "Spamwa.py")
 
 lalu setelah itu cepat cepatlah ke tempat pemasukan teks (jangan diisi biar keisi otomatis sama termux)
