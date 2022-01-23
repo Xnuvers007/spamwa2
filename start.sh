@@ -2,7 +2,7 @@
 
 echo ''
 echo ''
-read -n1 -p "Kamu ingin menjalankan programnya langsung atau python ? L = langsung, P = python" doit
+read -n1 -p "Kamu ingin menjalankan programnya langsung atau python ? L = langsung, N = python" doit
 case $doit in
 	l|L) cd Aplikasi_Exe
 		echo "Menginstall wine"
