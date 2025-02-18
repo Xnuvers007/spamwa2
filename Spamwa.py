@@ -5,7 +5,9 @@ import os
 from sys import platform
 
 if platform=="linux" or platform=="linux2":
-   os.environ['DISPLAY'] = ':1.0' #Linux / debian
+   os.environ['DISPLAY'] = ':1.0' #Linux / debian / termux
+   os.system("export DISPLAY=$(cat /data/data/com.termux/files/usr/etc/resolv.conf | grep nameserver | awk '{print $2}'):0")
+   os.system("export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0")
 elif platform=="win32":
    s.environ['DISPLAY'] = ':0' #windows
 else:
